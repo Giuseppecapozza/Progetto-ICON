@@ -26,7 +26,6 @@ Nella cartella del progetto "Progetto ICON - Predizione Potabilità acqua" sono 
   - **Presentazione** -> Qui troviamo due file:  
     - ***Water prediction documentazione.pdf*** -> documentazione del progetto  
     - ***Water presentazione.pptx*** -> power point utile alla presentazione del progetto  
-  - **Immagini** -> In questa cartella sono contenute le immagini presenti nella documentazione  
   
 All'interno della cartella principale stessa invece sono presenti i file .py che contengono il codice del progetto, nel dettaglio:  
   - ***Main.py*** -> File sorgente utilizzato per le analisi sul dataset  
