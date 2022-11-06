@@ -53,3 +53,5 @@ Per eseguire il progetto è necessario installare i seguenti programmi:
 ## 4. Sviluppi Futuri
 
 Uno dei possibili sviluppi futuri è quello di ampliare il dataset in modo tale da avere più scelte a disposizione per ogni richiesta di eventuali clienti o anche ampliare i sintomi che i tipi diversi di acqua mirano a curare/prevenire.
+Uno dei possibili sviluppi futuri è quello di ampliare il dataset in modo tale da avere più scelte a disposizione per ogni richiesta di eventuali clienti o anche ampliare i sintomi che i tipi diversi di acqua mirano a curare/prevenire.
+Oltre questo potrebbe essere opportuno sviluppare un’interfaccia software in modo tale da rendere l’esperienza utente decisamente più apprezzabile ed usufruibile dopodiché far eseguire questo software su dei dispositivi, come ad esempio tablet, che verranno collocati all’interno di supermercati cosicché i clienti possano utilizzarli per cercare i tipi di acqua a loro utili sulla base delle marche presenti all’interno del supermercato.
